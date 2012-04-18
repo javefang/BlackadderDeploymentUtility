@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 
 public class BAConnection extends ConfigWritter implements Serializable {
-	
+	//
 	private static String overlayMode;
 	/**
 	 * 
